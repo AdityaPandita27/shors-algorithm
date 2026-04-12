@@ -1,0 +1,4 @@
+Python 3.8+
+Qiskit 2.0+
+Qiskit-Aer 0.17+
+NumPy
