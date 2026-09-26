@@ -15,7 +15,7 @@ potentially breakable.
 
 ## How It Works
 
-Shor's algorithm has two parts:
+Shor's algorithm has two parts: 
 
 1. **Classical part** — reduces the factoring problem into 
    finding the period of the function f(x) = a^x mod N
